@@ -1,2 +1,2 @@
-# MVC---Psic-logo-
+# MVC---Psicologo-
 CRUD - Psicólogo 
